@@ -1,0 +1,93 @@
+. . . . . . .	1
+. . . O . O .
+. . . . O . .
+. . O . . . .
+O O . . . O O
+O O . O . . .
+
+O O O O O O O	2
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+
+O O O . O . O	3
+O O . . . . .
+O O . . . . O
+. . . . . . .
+. . . . . . .
+. . . . . . .
+
+O O O O O O O	4
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+
+. . . . . . .	5
+. . . O . O .
+. . . O O . .
+. . O O O O .
+O O O O O O O
+O O O O O O O
+
+O O O O O O O	6
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+
+O O O . O . O	7
+O O . . . . .
+O O . . . . O
+. . . . . . .
+. . . . . . .
+. . . . . . .
+
+O O O O O O O	8
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+
+. . . . . . .	9
+. . . O . O .
+. . . O O . .
+. . O O O O .
+O O O O O O O
+O O O O O O O
+
+O O O O O O O	10
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+
+O O O . O . O	11
+O O . . . . .
+O O . . . . O
+. . . . . . .
+. . . . . . .
+. . . . . . .
+
+O O O O O O O	12
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+O O O O O O O
+
+. . . . . . .	13
+. . . O . O .
+. . . O O . .
+. . O O O O .
+O O O O O O O
+O O O O O O O
+
+(1) 	5 9 13 
+	3 7 11
