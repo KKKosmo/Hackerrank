@@ -1,0 +1,38 @@
+
+def steadyGene(gene):
+    # Write your code here
+    size = int(len(gene) / 4)
+    
+    # d = {'G':0, 'A':0, 'C':0, 'T':0}
+    # ex = []
+    
+    
+    # for x in gene:
+    #     d[x] = d[x]+1
+    #     if d[x] > size:
+    #         ex.append(x)
+            
+    # if(len(ex) == 0):
+    #     return 0
+    substr = []
+    head = 0
+    tail = 0
+    minc = float('inf')
+    
+    def check(substr):
+        #check here if substr is balanced
+        #if every element in substr has the freq of size
+            
+    
+    while(tail < len(gene)):
+        substr.append(gene[tail])
+        tail += 1
+        while(head < tail and check(substr)):
+            del substr[0]
+            head += 1
+        
+            minc = min(minc, tail-head+1)
+        
+        
+    
+    return minc
